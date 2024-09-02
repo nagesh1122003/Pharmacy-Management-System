@@ -1,0 +1,16 @@
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\bin\Release\Pharmacy Management System1.exe
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\bin\Release\Pharmacy Management System1.exe.config
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\bin\Release\Pharmacy Management System1.pdb
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy Management System1.csproj.AssemblyReference.cache
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.BillingForm.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.Company.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.Employees.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.Form1.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.HomeForm2.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.Login.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.MedicineForm.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy_Management_System1.Properties.Resources.resources
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy Management System1.csproj.GenerateResource.cache
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy Management System1.csproj.CoreCompileInputs.cache
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy Management System1.exe
+D:\repos\Pharmacy Management System1\Pharmacy Management System1\obj\Release\Pharmacy Management System1.pdb
